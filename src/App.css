@@ -1,0 +1,26 @@
+.navbar {
+    background: #232a34;
+    padding: 10px 20px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.input-search {
+    padding: 6px 10px;
+    border-radius: 2px 0 0 2px;
+    outline: none;
+    border: none;
+    margin-top: -1px;
+}
+
+.search-button {
+   right: 10px;
+    top: -1px;
+   position: relative;
+}
+
+.content {
+    padding: 20px;
+}
